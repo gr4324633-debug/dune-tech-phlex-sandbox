@@ -6,7 +6,7 @@
 
 ## What this does
 
-<One or two sentences. For example: "Runs the C++ example workflow on 20 spills
+<One or two sentences.  For example: "Runs the C++ example workflow on 20 spills
 and writes only the `sum` product with FORM.">
 
 ## How to run it
